@@ -6,5 +6,10 @@ IRL Quest uses only JavaScript and Expo to create a basic drag and drop game as 
 As an end user completes real life tasks those tasks will translate to in-game experience. The tasks will translate to the appropriate type of experience, for example exercise will give strength and homework
 will translate to intellect.
 
-<img width="481" height="1182" alt="image" src="https://github.com/user-attachments/assets/84962256-fca2-4f0f-babe-ab0ca35e5b17" />
+<img width="480" height="1180" alt="image" src="https://github.com/user-attachments/assets/84962256-fca2-4f0f-babe-ab0ca35e5b17" />
+
 > Credit: The IRL Quest team
+
+Drag and dropping the character over the weight or the shoes changes the current task and allows the end user to gain experience.
+
+<img width="480" height="1180" alt="image" src="https://github.com/user-attachments/assets/983f2ffb-65f9-4dee-b67b-8072afea0e80" />
